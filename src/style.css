@@ -1,0 +1,22 @@
+body {
+     font-family: 'Poppins';
+     width: 100vw;
+}
+
+.navitem {
+        height: 25%;
+        width: 100vw;
+        font-size: 16px;
+        font-weight: bold;
+        color: #ffffff;
+        background-color: #39aebc !important; 
+}
+
+.sgpage {
+     background-color: #999999;
+     height: 90vh;
+     width: 100vw;
+}
+.white {
+    color: #fff;
+}
